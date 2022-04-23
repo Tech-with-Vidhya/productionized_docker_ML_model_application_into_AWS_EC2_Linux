@@ -6,7 +6,7 @@ The machine learning business case implemented in this project includes a bank n
 
 Project Architecture:
 
-
+![](architecture/project_architecture.jpg)
 
 Implementation Steps:
 
