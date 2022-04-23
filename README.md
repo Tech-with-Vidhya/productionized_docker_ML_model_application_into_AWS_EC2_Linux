@@ -28,14 +28,15 @@ Tools & Technologies:
 
 1. Python
 2. Flask
-3. AWS
-4. AWS EC2
-5. Linux Server
-6. Linux Commands
-7. Command Line Interface (CLI)
-8. Docker
-9. Docker Commands
-10. AWS ECR
-11. AWS IAM
+3. Flask API
+4. AWS
+5. AWS EC2
+6. Linux Server
+7. Linux Commands
+8. Command Line Interface (CLI)
+9. Docker
+10. Docker Commands
+11. AWS ECR
+12. AWS IAM
 
 
